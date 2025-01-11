@@ -1,0 +1,29 @@
+### Project Specific stuff
+
+# sbt specific
+RTL/Chisel/.cache
+RTL/Chisel/.history
+RTL/Chisel/.lib/
+RTL/Chisel/dist/*
+RTL/Chisel/target/
+RTL/Chisel/lib_managed/
+RTL/Chisel/src_managed/
+RTL/Chisel/project/
+RTL/Chisel/plugins.sbt
+RTL/Chisel/build.properties
+RTL/Chisel/.bloop
+RTL/verilator_testbench/obj_dir
+RTL/verilator_testbench/*.vcd
+RTL/Chisel/.bsp/sbt.json
+
+# Scala-IDE specific
+.scala-build
+.scala_dependencies
+.worksheet
+.metals
+
+settings.json
+
+### Java template
+*.class
+
