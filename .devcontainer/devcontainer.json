@@ -25,6 +25,6 @@
             ]
         }
     },
-    "postCreateCommand": "sudo chmod +x /workspaces/OctoNyte/.devcontainer/setup.sh && bash /workspaces/OctoNyte/.devcontainer/setup.sh"
+    "postCreateCommand": "chmod +x /workspaces/OctoNyte/.devcontainer/setup.sh && bash /workspaces/OctoNyte/.devcontainer/setup.sh"
 }
   
